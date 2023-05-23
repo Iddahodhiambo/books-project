@@ -309,7 +309,7 @@ the page and select "PostgreSQL". Enter a name for your PostgreSQL instance. The
 remaining fields can be left as is. Click "Create Database" at the bottom of the
 page. You should now be all set to follow the steps in the "Deploying" section.
 
-## Troubleshooting
+## Troublesho
 
 If you ran into any errors along the way, here are some things you can try to
 troubleshoot:
